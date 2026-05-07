@@ -5,6 +5,7 @@ input = 505
 output = 3
 
 '''
+# time complexity O(log 10(n)) 
 
 
 n = int(input("Enter a number: "))
